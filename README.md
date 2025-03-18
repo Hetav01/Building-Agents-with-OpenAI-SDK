@@ -14,6 +14,17 @@ The **Founder Knowledge Assistant** is an AI-powered tool designed to assist use
 
 ---
 
+## ✨ Tech Stack and Tools
+
+- **Python 3.12**: Core programming language.
+- **Pydantic**: Data validation and structured response models.
+- **Tavily API**: Web search integration.
+- **OpenAI API**: NLP capabilities.
+- **Logging**: Python's built-in module for event logging.
+- **Dotenv**: Secure management of environment variables.
+
+---
+
 ## 📂 Project Structure
 
 ```
